@@ -1,0 +1,11 @@
+# package-lock.json
+package-lock.json
+
+# node-modules
+node-modules/
+
+# dotenv environment variables file
+.env
+
+# Optional npm cache directory
+.npm
